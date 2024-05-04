@@ -8,7 +8,7 @@ https://bibek10550.github.io/small-piece-of-paper-falling-down/
 <h3 align="center">small-piece-of-paper-falling-down</h3>
 
 <!-- Profile View Count -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=bibek10550small-piece-of-paper-falling-down&label=Profile%20views&color=0e75b6&style=flat" alt="Bibek Chand Sah (BCS)" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bibek10550paper-falling-down&label=Profile%20views&color=0e75b6&style=flat" alt="Bibek Chand Sah (BCS)" /> </p>
 
 ## Website
 <h1>👉🏻 <a href="https://bibek10550.github.io/small-piece-of-paper-falling-down/">small-piece-of-paper-falling-down</a></h1>
